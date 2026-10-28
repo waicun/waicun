@@ -14,23 +14,21 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Original Projects (自研主力專案)
 
 #### 🎮 Game & Simulation
 - **mortal_realm (凡人江湖演化內核)**  
   Godot 4.7+ 純數據內核沙盒模擬引擎。採用三級分頻調度（旬頻/月頻/年頻），具備凡人百業生活驅動、親族社交拓撲演化與動態數值收斂系統。
-- **[the-three-kingdom](https://github.com/waicun/the-three-kingdom)**  
-  基於 TypeScript 的三國題材戰略沙盒架構，涵蓋大地圖網格、數值狀態機與模組化事件系統。
-- **fullworld**  
+- **fullworld**（私有進行中）  
   獨立開發遊戲核心工程，聚焦於高自由度世界交互與角色狀態矩陣。
 
 #### ⛅ Cloudflare & Edge-Native
 - **[CloudflareCMS](https://github.com/waicun/CloudflareCMS)**  
   完全構建在 Cloudflare 邊緣基礎設施上的無伺服器 Headless CMS，整合 D1 數據庫與 R2 儲存。
-- **[edgeintel](https://github.com/waicun/edgeintel)**  
+- **[edgeintel](https://github.com/waicun/edgeintel)**（私有工具）  
   私有邊緣控制台儀表盤，實時管理與監控多項 Cloudflare 部署服務。
-- **[Rin_cloudflareFullStack](https://github.com/waicun/Rin_cloudflareFullStack)**  
-  基於 Cloudflare Pages + Workers + D1 + R2 的動態全棧邊緣博客實踐。
+- **[r2-explorer-template](https://github.com/waicun/r2-explorer-template)**  
+  基於 Cloudflare R2 的物件存儲管理與檔案瀏覽模組。
 
 #### ⚙️ Backend & Tools
 - **[Gbootcms](https://github.com/waicun/Gbootcms)**  
